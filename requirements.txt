@@ -1,0 +1,2 @@
+revChatGPT==6.8.6
+selenium==4.11.2
